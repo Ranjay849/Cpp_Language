@@ -10,4 +10,5 @@ int main(){
     c = a + b;
 
     cout << "The sum of " << a << " and " << b << " is: " << c;
+    return 0;
 }
